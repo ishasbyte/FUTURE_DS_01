@@ -18,5 +18,21 @@ Dataset and analysis will be added as the task progresses.
 - Excel / Python (Pandas, Matplotlib)
 - Basic data analysis techniques
 
+# Customer Churn Analysis - Task 2
+
+## Objective
+To analyze customer churn patterns using pivot tables and pivot charts in MS Excel.
+
+## Tools Used
+- Microsoft Excel
+
+## Analysis & Insights
+- Customers on month-to-month contracts show the highest churn rate.
+- Churn decreases significantly for customers with one-year and two-year contracts.
+- Customers using electronic check as a payment method have higher churn compared to automatic payments.
+
+## Conclusion
+Customer churn is strongly influenced by contract duration and payment method. Longer contracts and automatic payment options help reduce churn.
+
 ## Author
 Nimisha Dey
