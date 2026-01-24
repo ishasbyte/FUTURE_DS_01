@@ -41,5 +41,17 @@ Uploaded and ready for analysis.
 ## Conclusion
 Customer churn is strongly influenced by contract duration and payment method. Longer contracts and automatic payment options help reduce churn.
 
+# Task 3 – Funnel & Lead Analysis
+
+Dataset: marketing_task3.xlsx
+
+## Tools Used: Excel
+
+## Work Done:
+- Created overall funnel (Visitors → Customers)
+- Created funnel by channel
+- Created funnel by month
+- Added insights and recommendations
+
 ## Author
 Nimisha Dey
